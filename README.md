@@ -29,8 +29,8 @@ To run this project locally on your machine, follow these steps:
 7. **Access the API**
 
 ## API Endpoints
-GET /match-results/: Retrieve a list of all matches.
-POST /match-results/: Create a new match record.
-GET /match-results/{id}/: Retrieve details of a specific match by its ID.
-PUT /match-results/{id}/: Update an existing match record.
-DELETE /match-results/{id}/: Delete an existing match record.
+- GET /match-results/: Retrieve a list of all matches.
+- POST /match-results/: Create a new match record.
+- GET /match-results/{id}/: Retrieve details of a specific match by its ID.
+- PUT /match-results/{id}/: Update an existing match record.
+- DELETE /match-results/{id}/: Delete an existing match record.
